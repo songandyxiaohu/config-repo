@@ -1,1 +1,1 @@
-zuul.prefix=/api_prod
+zuul.prefix: "/api_prod"
