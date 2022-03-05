@@ -1,1 +1,2 @@
 zuul.prefix: "/api_dev"
+signing.key: "123456"
